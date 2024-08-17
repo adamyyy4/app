@@ -1,11 +1,11 @@
 {
-    "status": "off",
+    "status": "on",
     "notification": [
         
         {
             "title": "عذراً، لا يمكن تفعيل الإنترنت حالياً",
             "description": "يواجه الخادم ضغطاً كبيراً في الوقت الحالي. يرجى المحاولة لاحقاً.",
-            "image": "https://example.com/server_error.jpg",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiNET6_ae40SJklcTr1eLu6eeBPVCQ2YXLfg&usqp=CAU",
             "link": "https://example.com/server_status"
         }
     ]
