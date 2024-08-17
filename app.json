@@ -1,8 +1,11 @@
-[
-    {
-        "title": "توقف التطبيق مؤقتًا",
-        "description": "سيتم إيقاف التطبيق بشكل مؤقت وسيتم تشغيله فيما بعد. شكرًا لتفهمكم.",
-        "image": "https://example.com/app-stop.jpg",
-        "link": "https://example.com/more-info"
-    }
-]
+{
+    "status": "on",
+    "notification": [
+        {
+            "title": "تنبيه مهم!",
+            "description": "لقد تم تحديث التطبيق مع ميزات جديدة. تحقق منها الآن!",
+            "image": "https://example.com/image.jpg",
+            "link": "https://example.com/details"
+        }
+    ]
+}
