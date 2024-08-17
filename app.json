@@ -1,11 +1,12 @@
 {
     "status": "off",
     "notification": [
+        
         {
-            "title": "تنبيه مهم!",
-            "description": "لقد تم تحديث التطبيق مع ميزات جديدة. تحقق منها الآن!",
-            "image": "https://example.com/image.jpg",
-            "link": "https://example.com/details"
+            "title": "عذراً، لا يمكن تفعيل الإنترنت حالياً",
+            "description": "يواجه الخادم ضغطاً كبيراً في الوقت الحالي. يرجى المحاولة لاحقاً.",
+            "image": "https://example.com/server_error.jpg",
+            "link": "https://example.com/server_status"
         }
     ]
 }
